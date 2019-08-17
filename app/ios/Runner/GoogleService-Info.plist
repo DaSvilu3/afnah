@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>524814000455-8jrr8a3btb0o3l9fkrkek84dca78ikkr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.524814000455-8jrr8a3btb0o3l9fkrkek84dca78ikkr</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAgIhQ34l8QabbO5o2JeLYX7xJFX7QlhKs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>524814000455</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ytp.afnah</string>
+	<key>PROJECT_ID</key>
+	<string>afnah-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>afnah-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:524814000455:ios:3177e3ec8ec41505</string>
+	<key>DATABASE_URL</key>
+	<string>https://afnah-app.firebaseio.com</string>
+</dict>
+</plist>
